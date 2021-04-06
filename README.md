@@ -1,2 +1,2 @@
-# sample-GraphQL-React-Application
-## http://localhost:4000/graphql
+# sample-GraphQL-React-Application using React Node GraphQL express and MongoDB
+

@@ -6,7 +6,6 @@ import Booklist from './components/Booklist';
 import Addbook from './components/Addbook';
 
 // apollo client setup
-
 const client = new ApolloClient({
   uri:'http://localhost:4000/graphql'
 })
